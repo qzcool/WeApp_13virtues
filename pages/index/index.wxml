@@ -1,2 +1,66 @@
 <!--pages/index/index.wxml-->
-<text>pages/index/index.wxml</text>
+<view class='virtue-wrapper'>
+  <view class='virtue-icon' style="flex:1">+</view>
+  <view class='virtue' style="flex:1">节制欲望</view>
+  <view class='virtue-icon' style="flex:1">-</view>
+</view>
+<view class='virtue-wrapper'>
+  <view class='virtue-icon' style="flex:1">+</view>
+  <view class='virtue' style="flex:1">自我控制</view>
+  <view class='virtue-icon' style="flex:1">-</view>
+</view>
+<view class='virtue-wrapper'>
+  <view class='virtue-icon' style="flex:1">+</view>
+  <view class='virtue' style="flex:1">沉默寡言</view>
+  <view class='virtue-icon' style="flex:1">-</view>
+</view>
+<view class='virtue-wrapper'>
+  <view class='virtue-icon' style="flex:1">+</view>
+  <view class='virtue' style="flex:1">有条不紊</view>
+  <view class='virtue-icon' style="flex:1">-</view>
+</view>
+<view class='virtue-wrapper'>
+  <view class='virtue-icon' style="flex:1">+</view>
+  <view class='virtue' style="flex:1">信心坚定</view>
+  <view class='virtue-icon' style="flex:1">-</view>
+</view>
+<view class='virtue-wrapper'>
+  <view class='virtue-icon' style="flex:1">+</view>
+  <view class='virtue' style="flex:1">节约开支</view>
+  <view class='virtue-icon' style="flex:1">-</view>
+</view>
+<view class='virtue-wrapper'>
+  <view class='virtue-icon' style="flex:1">+</view>
+  <view class='virtue' style="flex:1">勤奋努力</view>
+  <view class='virtue-icon' style="flex:1">-</view>
+</view>
+<view class='virtue-wrapper'>
+  <view class='virtue-icon' style="flex:1">+</view>
+  <view class='virtue' style="flex:1">忠诚老实</view>
+  <view class='virtue-icon' style="flex:1">-</view>
+</view>
+<view class='virtue-wrapper'>
+  <view class='virtue-icon' style="flex:1">+</view>
+  <view class='virtue' style="flex:1">待人公正</view>
+  <view class='virtue-icon' style="flex:1">-</view>
+</view>
+<view class='virtue-wrapper'>
+  <view class='virtue-icon' style="flex:1">+</view>
+  <view class='virtue' style="flex:1">保持清洁</view>
+  <view class='virtue-icon' style="flex:1">-</view>
+</view>
+<view class='virtue-wrapper'>
+  <view class='virtue-icon' style="flex:1">+</view>
+  <view class='virtue' style="flex:1">心胸开阔</view>
+  <view class='virtue-icon' style="flex:1">-</view>
+</view>
+<view class='virtue-wrapper'>
+  <view class='virtue-icon' style="flex:1">+</view>
+  <view class='virtue' style="flex:1">谨言慎行</view>
+  <view class='virtue-icon' style="flex:1">-</view>
+</view>
+<view class='virtue-wrapper'>
+  <view class='virtue-icon' style="flex:1">+</view>
+  <view class='virtue' style="flex:1">谦虚有礼</view>
+  <view class='virtue-icon' style="flex:1">-</view>
+</view>

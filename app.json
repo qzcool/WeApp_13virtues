@@ -1,7 +1,8 @@
 {
   "pages": [
     "pages/index/index",
-    "pages/summary/summary"
+    "pages/summary/summary",
+    "pages/setting/setting"
   ],
   "window": {
     "backgroundTextStyle": "dark",
@@ -9,5 +10,28 @@
     "navigationBarTitleText": "功过格",
     "navigationBarTextStyle": "black",
     "enablePullDownRefresh": true
+  },
+  "tabBar": {
+    "selectedColor": "#1296db",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "images/icon_index.png",
+        "selectedIconPath": "images/icon_index.png"
+      },
+      {
+        "pagePath": "pages/summary/summary",
+        "text": "总结",
+        "iconPath": "images/icon_summary.png",
+        "selectedIconPath": "images/icon_summary.png"
+      },
+      {
+        "pagePath": "pages/setting/setting",
+        "text": "设置",
+        "iconPath": "images/icon_setting.png",
+        "selectedIconPath": "images/icon_setting.png"
+      }
+    ]
   }
 }
