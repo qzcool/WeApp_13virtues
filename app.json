@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/summary/summary"
+  ],
+  "window": {
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "功过格",
+    "navigationBarTextStyle": "black",
+    "enablePullDownRefresh": true
+  }
+}
